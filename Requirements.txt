@@ -1,0 +1,6 @@
+For the project to be seemless we would be using this git repository procedure 
+here are few requirements :
+1. Create c++ compiler 
+2. git and github
+3. Get a interactive IDE like vscode
+4. Further instructions could be seen in Instruction.txt 
