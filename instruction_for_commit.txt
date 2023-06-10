@@ -1,0 +1,22 @@
+Hey evey one for a github repo to be confict free we have to follow certain commit rules
+1.For every change we would be adding a branch 
+2. The branch would be named like :
+    CD-number:Type of feature and location of feature 
+    further push your branch 
+    example : CD-02:Instruction for git commits
+3. A git commit should be like :
+    CD-number(same as branch number ):Work done in commit 
+    further do your commit . 
+    example : CD-02:Adding instruction_for_commit.txt
+
+Before merging one review should be done by other team mate 
+Also you can find Git_basics.pdf and git_cheatsheet.pdf these files can be found in Help_Git folder for github commits .
+For any update that u make :
+1. Create a branch on github .
+2. Type "git checkout main " on terminal and hit enter .
+3. Type "git pull " on terminal and hit enter .
+4. Type "git checkout {name of newbranch} " on terminal and hit enter .
+5. Perform the changes .
+6. Type "git pull origin main " on terminal and hit enter . 
+7. Commit ur changes . 
+8. Do a git push.
